@@ -12,3 +12,4 @@ Seguridad de las credenciales: Almacena de forma segura tus credenciales importa
 
 Interfaz amigable: Con una interfaz limpia y moderna, Taskify te ofrece una experiencia de usuario intuitiva que te permite navegar fácilmente por sus funciones y realizar tus tareas de manera eficiente. 🎨🖥️👌
 
+Este proyecto está bajo la Licencia MIT
